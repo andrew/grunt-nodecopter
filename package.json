@@ -39,5 +39,8 @@
   },
   "keywords": [
     "gruntplugin"
-  ]
+  ],
+  "dependencies": {
+    "nodecopter": "git://github.com/andrew/nodecopter.git"
+  }
 }
